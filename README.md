@@ -35,7 +35,3 @@ Fleet managers constantly battle safety risks, including **speeding, lane depart
 🚀 **Safe Driving Programs** – Mandatory defensive driving training for all drivers.  
 ⏳ **Speed Governors** – Implementing a 75 mph speed cap for safer driving.  
 🚛 **Truck Optimization** – Volvo emerges as the top choice for fuel efficiency & safety.  
-
----
-
-This refined README keeps it **engaging, professional, and structured**, making it easier to digest for readers while emphasizing key takeaways. Let me know if you'd like any tweaks! 🚀
